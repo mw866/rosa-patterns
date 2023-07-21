@@ -6,8 +6,9 @@ The default installation will create a public ROSA cluster in a single availabil
 
 ## Get started resources
 
-- Terraform OpenShift Cluster Manager (OCM) Provider documentation: <https://github.com/openshift-online/terraform-provider-ocm>
-- Terraform on AWS: <https://developer.hashicorp.com/terraform/tutorials/aws-get-started>
+- [Terraform OpenShift Cluster Manager (OCM) Provider documentation](https://github.com/openshift-online/terraform-provider-ocm)
+- [Terraform on AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+- [AWS ROSA Workshop](https://catalog.workshops.aws/aws-openshift-workshop/en-US)
 
 ## Deployment
 

@@ -24,7 +24,7 @@ data "ocm_rosa_operator_roles" "operator_roles" {
 
 module "operator_roles" {
   source = "git::https://github.com/openshift-online/terraform-provider-ocm.git//modules/aws_roles"
-
+  
   cluster_id                  = var.cluster_id
   rh_oidc_provider_thumbprint = var.oidc_thumbprint
   rh_oidc_provider_url        = var.oidc_endpoint_url
